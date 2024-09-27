@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ada-gpr-alr-vscode
+name: A3-IA (Cours de Mikky)
 description: The Visual Studio Code IDE with Ada toolsuite.
 icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/vscode.png
 keywords:
