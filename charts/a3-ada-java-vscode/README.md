@@ -104,9 +104,9 @@ The Visual Studio Code IDE with Ada toolsuite.
 | security.password | string | `"changeme"` |  |
 | securityContext | object | `{}` |  |
 | service.image.custom.enabled | bool | `false` |  |
-| service.image.custom.version | string | `"liaslaboratory/onyxia-ada-gpr-alr-vscode:12.3.0"` |  |
+| service.image.custom.version | string | `"liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0"` |  |
 | service.image.pullPolicy | string | `"IfNotPresent"` |  |
-| service.image.version | string | `"liaslaboratory/onyxia-ada-gpr-alr-vscode:12.3.0"` |  |
+| service.image.version | string | `"liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0"` |  |
 | serviceAccount.annotations | object | `{}` |  |
 | serviceAccount.create | bool | `true` |  |
 | serviceAccount.name | string | `""` |  |
