@@ -23,8 +23,8 @@
             "version": {
               "description": "A3 version",
               "type": "string",
-              "default": "liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0",
-              "listEnum": ["liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0"],
+              "default": "liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.1",
+              "listEnum": ["liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.1","liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0"],
               "render": "list",
               "hidden": {
                 "value": true,
@@ -47,7 +47,7 @@
                 "version": {
                   "description": "vscode unsupported version",
                   "type": "string",
-                  "default": "liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0",
+                  "default": "liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.1",
                   "hidden": {
                     "value": false,
                     "path": "service/image/custom/enabled"
