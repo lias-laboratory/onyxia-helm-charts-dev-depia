@@ -4,11 +4,11 @@ global:
 
 service:
   image:
-    version: "liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0"
+    version: "liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.1"
     pullPolicy: IfNotPresent
     custom:
       enabled: false
-      version: "liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0"
+      version: "liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.1"
 
 security:
   password: "changeme"
