@@ -1,6 +1,6 @@
 # a3-ia-cours-mikky
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square)
+![Version: 1.1.0](https://img.shields.io/badge/Version-1.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square)
 
 The Visual Studio Code IDE with Ada toolsuite.
 
@@ -104,9 +104,9 @@ The Visual Studio Code IDE with Ada toolsuite.
 | security.password | string | `"changeme"` |  |
 | securityContext | object | `{}` |  |
 | service.image.custom.enabled | bool | `false` |  |
-| service.image.custom.version | string | `"liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0"` |  |
+| service.image.custom.version | string | `"liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.1"` |  |
 | service.image.pullPolicy | string | `"IfNotPresent"` |  |
-| service.image.version | string | `"liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.0"` |  |
+| service.image.version | string | `"liaslaboratory/onyxia-a3-ada-java-vscode:2024-1.1"` |  |
 | serviceAccount.annotations | object | `{}` |  |
 | serviceAccount.create | bool | `true` |  |
 | serviceAccount.name | string | `""` |  |
