@@ -2,6 +2,30 @@ apiVersion: v1
 entries:
   a3-ia-cours-mikky:
   - apiVersion: v2
+    created: "2024-10-15T11:17:27.602343023Z"
+    dependencies:
+    - name: library-chart
+      repository: https://inseefrlab.github.io/helm-charts-interactive-services
+      version: 1.5.23
+    description: The Visual Studio Code IDE with Ada toolsuite.
+    digest: 0225ca0d0c91ae2572353049b4a6dc1a776e007c9c256332f64be01f2da491f5
+    home: https://code.visualstudio.com/
+    icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/vscode.png
+    keywords:
+    - VSCode
+    - Ada
+    - C
+    - C++
+    - Java
+    name: a3-ia-cours-mikky
+    sources:
+    - https://github.com/lias-laboratory/onyxia-images-development
+    - https://github.com/lias-laboratory/onyxia-helm-charts-dev
+    type: application
+    urls:
+    - https://github.com/lias-laboratory/onyxia-helm-charts-dev-depia/releases/download/a3-ia-cours-mikky-1.1.0/a3-ia-cours-mikky-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
     created: "2024-09-27T13:06:25.577461119Z"
     dependencies:
     - name: library-chart
@@ -25,4 +49,4 @@ entries:
     urls:
     - https://github.com/lias-laboratory/onyxia-helm-charts-dev-depia/releases/download/a3-ia-cours-mikky-1.0.0/a3-ia-cours-mikky-1.0.0.tgz
     version: 1.0.0
-generated: "2024-09-27T13:06:25.577469815Z"
+generated: "2024-10-15T11:17:27.602376334Z"
